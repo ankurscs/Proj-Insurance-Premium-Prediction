@@ -1,4 +1,4 @@
-from Insurance.entity import artifact_entity,config_entity
+from Insurance.entity import artifact_entity, config_entity
 from Insurance.exception import InsuranceException
 from Insurance.logger import logging
 from scipy.stats import ks_2samp
